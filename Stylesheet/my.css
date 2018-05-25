@@ -1,0 +1,678 @@
+body
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    border: 2px solid #669900;
+    margin:0px;
+    width: 99.6%;
+}
+.caldate
+{
+    width: 250px;
+}
+.gridview
+{
+    border-style: none !important;
+}
+#txtReportSummaryWithCss
+{
+    min-width:150px;
+}
+.smartbutton6
+{
+    background: #669900;
+    background-image: -webkit-linear-gradient(top, #669900, #067a0e);
+    background-image: -moz-linear-gradient(top, #669900, #067a0e);
+    background-image: -ms-linear-gradient(top, #669900, #067a0e);
+    background-image: -o-linear-gradient(top, #669900, #067a0e);
+    background-image: linear-gradient(to bottom, #669900, #067a0e);
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 3px 4px 3px 4px;
+    text-decoration: none;
+}
+.smartbutton6:hover
+{
+    background: #3fe358;
+    background-image: -webkit-linear-gradient(top, #3fe358, #21c447);
+    background-image: -moz-linear-gradient(top, #3fe358, #21c447);
+    background-image: -ms-linear-gradient(top, #3fe358, #21c447);
+    background-image: -o-linear-gradient(top, #3fe358, #21c447);
+    background-image: linear-gradient(to bottom, #3fe358, #21c447);
+    text-decoration: none;
+}
+.gridview > tbody > tr > td /* Apply border to all cells */
+{
+    border: None;
+}
+p
+{
+}
+.tablegrid1 marquee div a
+{
+    color: #fff;
+}
+.tablegrid1 h1
+{
+    text-align: center;
+}
+
+.tablegrid1 a
+{
+    padding-top: 6px;
+    line-height: 20px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    border-bottom: dotted 1px #F90;
+    color: #333;
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+    padding-left: 4px;
+}
+.tablegrid1 a:hover
+{
+    text-decoration: none;
+    color: #F60;
+}
+
+.tablegrid1
+{
+    margin-left: 22px;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px; /*box-shadow: 06px 06px 3px #888888;*/
+    box-shadow: 07px 07px 3px 0px #6a6c6e;
+    background: #0066ff;
+    min-height: 305px;
+    min-width: 300px;
+}
+
+.tablegrid1 td
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    font-size: 11px;
+    border-collapse: collapse;
+}
+.tablegrid1 th
+{
+    background: #B70000;
+    background-image: -webkit-linear-gradient(top, #B70000, #800000);
+    background-image: -moz-linear-gradient(top, #B70000, #800000);
+    background-image: -ms-linear-gradient(top, #B70000, #800000);
+    background-image: -o-linear-gradient(top, #B70000, #800000);
+    background-image: linear-gradient(to bottom, #B70000, #800000);
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 05px;
+    font-size: 11px;
+    background-color: maroon;
+    text-align: left;
+    padding: 3px 5px;
+    border-right: 1px solid maroon;
+    border-bottom-style: none;
+    color: #FFFFFF;
+}
+.tablegrid2
+{
+    margin-top: 50px;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px; /*box-shadow: 06px 06px 3px #888888;*/
+    box-shadow: 07px 07px 3px 0px #6a6c6e;
+    background: #80BA54;
+    min-height: 100px;
+}
+.tablegrid2 td
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    font-size: 11px;
+    border-collapse: collapse;
+}
+.tablegrid2 th
+{
+    background: #B70000;
+    background-image: -webkit-linear-gradient(top, #B70000, #800000);
+    background-image: -moz-linear-gradient(top, #B70000, #800000);
+    background-image: -ms-linear-gradient(top, #B70000, #800000);
+    background-image: -o-linear-gradient(top, #B70000, #800000);
+    background-image: linear-gradient(to bottom, #B70000, #800000);
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 05px;
+    font-size: 11px;
+    background-color: maroon;
+    text-align: left;
+    padding: 3px 5px;
+    border-right: 1px solid maroon;
+    border-bottom-style: none;
+    color: #FFFFFF;
+}
+td
+{
+}
+a:link
+{
+    color: navy;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+a:visited
+{
+    color: navy;
+}
+
+a:hover
+{
+    color: red;
+}
+
+a:active
+{
+    color: #669900;
+}
+input, select
+{
+    font-size: 11px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 0px;
+}
+option
+{
+    font-size: 11px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.pagebody
+{
+    margin-top: 10px; /*border-bottom: 10px double #946868;*/
+}
+.softborder
+{
+    border: solid 1px #669900;
+}
+
+div#contents1
+{
+    font-size: 11px;
+    padding: 10px;
+}
+
+#contents1 h1
+{
+    color: #669900;
+    font-size: 22px;
+    font-family: "Trebuchet MS" , Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 5px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #669900;
+}
+
+div#contents
+{
+    width: 950px !important;
+    margin: 0 auto;
+    border: 1px solid #669900;
+}
+
+#contents h1
+{
+    color: #669900;
+    font-size: 22px;
+    font-family: "Trebuchet MS" , Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 5px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #669900;
+}
+
+#header
+{
+    height: 66px;
+    max-width: 950px;
+    min-width: 760px;
+}
+
+.navbar
+{
+    border-color: #DDDDDD;
+}
+
+.clearfix
+{
+    /* display: inline-block */
+    min-width: 0;
+}
+
+.textfield
+{
+    font-size: 11px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: solid 1px #669900;
+}
+.label
+{
+    color: #946868;
+    font-weight: bold;
+}
+.headsubnav
+{
+    font-size: 11px;
+    padding: 2px 4px;
+    color: white;
+}
+.headsubnav a:link
+{
+    color: white;
+}
+.headsubnav a:hover
+{
+    color: white;
+}
+.headsubnav a:visited
+{
+    color: white;
+}
+
+/*============ Header Navigation*/
+#navcontainer
+{
+    background-color: #669900;
+    height: 22px;
+    border-bottom: 5px solid black; /* none needed */
+}
+
+ul#navlist
+{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+ul#navlist li
+{
+    float: left;
+    font-family: verdana, arial, sans-serif;
+    font-size: 11px;
+    margin: 0;
+    padding: 5px 0;
+    background-color: #669900;
+}
+
+#navlist a, #navlist a:link
+{
+    margin: 0;
+    padding: 5px 9px;
+    color: white;
+    border-right: 1px solid #d4cacc;
+    text-decoration: none;
+}
+
+ul#navlist li.active
+{
+    color: white;
+    background-color: black;
+}
+#navlist a:hover
+{
+    color: white;
+    background-color: #4391D6;
+}
+/*============== Left Navigation*/
+#leftnavcontainer
+{
+    font-size: 12px;
+    padding-top: 30px;
+}
+ul#leftnav
+{
+    margin: 0;
+    padding: 10px;
+    list-style-type: none;
+}
+#leftnav li
+{
+    background-image: url(../../images/bullet.gif);
+    background-repeat: no-repeat;
+    background-position: 5px 6px;
+    margin: 0;
+    padding: 5px 10px 1px 25px;
+    border-bottom: 1px solid #d4c2c4;
+}
+#leftnav a
+{
+    text-decoration: none;
+    padding-bottom: 5px;
+    display: block;
+}
+li.activeleft
+{
+    background-color: #f2eeed;
+}
+/*============*/
+.form-report
+{
+    font-size: 11px;
+    border: solid 1px #669900;
+    border-collapse: collapse;
+    width: 98%;
+}
+.form-report th
+{
+    font-size: 11px;
+    background-color: #669900;
+    text-align: left;
+    padding: 3px 5px;
+    border-bottom: 10px solid white;
+}
+.form-report td
+{
+    padding: 5px;
+}
+.form-report p
+{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.note
+{
+    color: #861e1e;
+    font-size: 11px;
+    font-weight: bold;
+    font-style: italic;
+}
+.form-report hr
+{
+    height: 0;
+    border-top: 1px solid #669900;
+    border-right-style: none;
+    border-right-width: 0;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-style: none;
+    border-left-width: 0;
+}
+.smartbutton
+{
+    color: #fff;
+    font-size: 10px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: #669900;
+    padding: 4px;
+    border-color: #cfb3b3 #6c3f3f #6c3f3f #cfb3b3;
+    border-style: solid;
+    border-width: 0px;
+}
+
+/*============*/
+/*============*/
+table.form-search
+{
+    font-size: 11px;
+    border: solid 1px #d4bebc;
+    border-collapse: collapse;
+    width: 80%;
+}
+.form-report th
+{
+    font-size: 11px;
+    background-color: #669900;
+    text-align: left;
+    padding: 3px 5px;
+    border-bottom: 10px solid white;
+}
+.form-report td
+{
+    padding: 5px;
+}
+.form-report p
+{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.note
+{
+    color: #861e1e;
+    font-size: 11px;
+    font-weight: bold;
+    font-style: italic;
+}
+.form-report hr
+{
+    height: 0;
+    border-top: 1px solid #669900;
+    border-right-style: none;
+    border-right-width: 0;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-style: none;
+    border-left-width: 0;
+}
+.tablegrid td
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    font-size: 12px;
+    height: 24px;
+    border-collapse: collapse;
+}
+.tablegrid th
+{
+    font-size: 12px;
+    background-color: #669900;
+    height: 25px;
+    text-align: left;
+    padding: 3px 5px;
+    border-right: 1px solid #669900;
+    border-bottom-style: none;
+    color: #FFFFFF;
+}
+.colgrid td
+{
+    border-right: 1px solid #d4bebc;
+    background-color: #F6FCF3;
+}
+.colgrid th
+{
+    font-size: 11px;
+    background-color: #e4d2d4;
+    text-align: left;
+    padding: 3px 5px;
+    border-right: 1px solid #946868;
+    border-bottom-style: none;
+}
+/*============*/
+div.localmenu
+{
+    text-align: right;
+}
+.localmenu a
+{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.localmenu .active
+{
+    font-weight: bold;
+}
+
+#navlist .activetab
+{
+    color: white;
+    background-color: black;
+}
+.in
+{
+    background: #ffcc66;
+}
+
+div.welcomemessage
+{
+    font-size: 12px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding: 5px 10px;
+    border-top: 2px solid #669900;
+}
+.welcomemessage p
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+td.loginbox
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding-left: 5px;
+    border-left: 2px solid #669900;
+}
+.loginbox p, .loginbox td
+{
+    font-size: 12px;
+}
+
+.caltop
+{
+    background-color: #669900;
+}
+.calbkg
+{
+    background-color: #f2eeed;
+}
+/*===========[ Active Tab ]=============*/
+.activeTab
+{
+    color: white;
+    background-color: black;
+}
+/************[ Active Left Link ]****************/
+.activeleftLink
+{
+    font-weight: bold;
+    background-color: #f2eeed;
+}
+
+/**********[table Selected Row]*******************/
+.tableCellSelected
+{
+    background-color: #f2eeed;
+}
+.grdheader
+{
+    font-size: 11px;
+    background-color: #669900;
+    text-align: left;
+    padding: 3px 5px;
+    border-right: 1px solid #946868;
+    border-bottom-style: none;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+table.copyright
+{
+    font-size: 11px;
+    width: 100%;
+}
+.copyright td
+{
+    background-color: #666666;
+    height: 10px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+}
+
+.invoiceheader
+{
+    font-size: 14px;
+    padding: 10px;
+    color: Blue;
+    font-family: "Trebuchet MS" , Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+    padding-bottom: 3px;
+}
+/*******************Table no bo#669900r*******************/
+table.tablenoborder
+{
+    font-size: 11px;
+}
+.tablenoborder td
+{
+    font-size: 11px;
+    border: none;
+}
+.tablenoborder th
+{
+    font-size: 11px;
+    text-align: left;
+    padding: 3px 5px;
+    border-bottom-style: none;
+}
+/*******************New Classes from waskills*********/
+
+/* For Displaying Text On Image START */
+#pic
+{
+    width: 800px;
+    height: 1131px;
+    position: relative; /* The key to this technique */
+}
+
+#pic .spnName
+{
+    position: absolute;
+    top: 381px;
+    left: 333px;
+    font: "Trebuchet MS" , Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+    font-size: 18px;
+    width: 327px;
+    height: 26px;
+}
+#pic .spnDate
+{
+    position: absolute;
+    top: 472px;
+    left: 334px;
+    font: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 327px;
+    height: 26px;
+}
+#pic .spnCertNumber
+{
+    position: absolute;
+    top: 1075px;
+    left: 162px;
+    font: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 327px;
+    height: 26px;
+    color: #FFFFFF;
+}
+#pic .spnPrint
+{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font: Arial, Helvetica, sans-serif;
+    color: #FFFFFF; /* For Displaying Text On Image END */
+}
